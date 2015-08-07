@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+
+{% block title %}Cable My Street - Register Customer Interest{% endblock %}
+
+{% block body %}
+    <h1 class="text-center">Register Customer Interest</h1>
+
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            <form role="form" action="{{ url_for('.registerCustomer') }}" method="post">
+                {{ form.hidden_tag() }}
+
+                <div class="form-group">
+                    {{ form.customerType.label }}
+                    {% if form.customerType.errors %}
+                        {% for e in form.customerType.errors %}
+                            <p class="help-block">{{ e }}</p>
+                        {% endfor %}
+                    {% endif %}
+                    {{ form.customerType(class_="form-control") }}
+                </div>
+
+                <div class="form-group">
+                    {{ form.title.label }}
+                    {% if form.title.errors %}
+                        {% for e in form.title.errors %}
+                            <p class="help-block">{{ e }}</p>
+                        {% endfor %}
+                    {% endif %}
+                    {{ form.title(class_="form-control") }}
+                </div>
+
+                <div class="form-group">
+                    {{ form.firstName.label }}
+                    {% if form.firstName.errors %}
+                        {% for e in form.firstName.errors %}
+                            <p class="help-block">{{ e }}</p>
+                        {% endfor %}
+                    {% endif %}
+                    {{ form.firstName(class_="form-control") }}
+                </div>
+
+                <div class="form-group">
+                    {{ form.lastName.label }}
+                    {% if form.lastName.errors %}
+                        {% for e in form.lastName.errors %}
+                            <p class="help-block">{{ e }}</p>
+                        {% endfor %}
+                    {% endif %}
+                    {{ form.lastName(class_="form-control") }}
+                </div>
+
+                <div class="form-group">
+                    {{ form.email.label }}
+                    {% if form.email.errors %}
+                        {% for e in form.email.errors %}
+                            <p class="help-block">{{ e }}</p>
+                        {% endfor %}
+                    {% endif %}
+                    {{ form.email(class_="form-control") }}
+                </div>
+
+                <div class="form-group">
+                    {{ form.buildingNumber.label }}
+                    {% if form.buildingNumber.errors %}
+                        {% for e in form.buildingNumber.errors %}
+                            <p class="help-block">{{ e }}</p>
+                        {% endfor %}
+                    {% endif %}
+                    {{ form.buildingNumber(class_="form-control") }}
+                </div>
+
+                <div class="form-group">
+                    {{ form.street.label }}
+                    {% if form.street.errors %}
+                        {% for e in form.street.errors %}
+                            <p class="help-block">{{ e }}</p>
+                        {% endfor %}
+                    {% endif %}
+                    {{ form.street(class_="form-control") }}
+                </div>
+
+                <div class="form-group">
+                    {{ form.postcode.label }}
+                    {% if form.postcode.errors %}
+                        {% for e in form.postcode.errors %}
+                            <p class="help-block">{{ e }}</p>
+                        {% endfor %}
+                    {% endif %}
+                    {{ form.postcode(class_="form-control") }}
+                </div>
+                
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+        <div class="col-md-4"></div>
+    </div>
+{% endblock %}

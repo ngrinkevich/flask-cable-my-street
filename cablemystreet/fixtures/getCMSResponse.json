@@ -1,0 +1,627 @@
+{
+    "responseStatus": "Success",
+    "address": [{
+        "buildingNumber": "CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023060678",
+        "communityId": "1",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 101 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045009",
+        "communityId": "1",
+        "uid": "206271443"
+    }, {
+        "buildingNumber": "APARTMENT 102 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045010",
+        "communityId": "2",
+        "uid": "206271444"
+    }, {
+        "buildingNumber": "APARTMENT 103 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045011",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 104 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045012",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 105 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045013",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 106 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045014",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 107 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045015",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 108 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045016",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 109 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045017",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 201 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045018",
+        "communityId": "3",
+        "uid": "206458585"
+    }, {
+        "buildingNumber": "APARTMENT 202 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045019",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 203 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045020",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 204 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045021",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 205 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045022",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 206 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045023",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 207 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045024",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 208 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045025",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 209 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045026",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 301 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045027",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 302 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045028",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 303 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045029",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 304 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045030",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 305 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045031",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 306 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045032",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 307 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045033",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 308 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045034",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 309 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045035",
+        "communityId": "3",
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 401 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045036",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 402 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045037",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 403 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045038",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 404 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045039",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 405 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045040",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 406 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045041",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 407 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045042",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 408 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045043",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 409 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045044",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 501 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045045",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 502 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045046",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 503 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045047",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 504 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045048",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 505 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045049",
+        "communityId": null,
+        "uid": "206195754"
+    }, {
+        "buildingNumber": "APARTMENT 506 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045050",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 507 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045051",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 508 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045052",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 509 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045053",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 601 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045054",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 602 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045055",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 603 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045056",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 604 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045057",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 605 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045058",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 606 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045059",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 607 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045060",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 608 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045061",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 609 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045062",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 701 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045063",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 702 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045064",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 703 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045065",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 704 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045066",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 705 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045067",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 706 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045068",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 707 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045069",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 708 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045070",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 709 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10023045071",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "APARTMENT 801 CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10090238340",
+        "communityId": null,
+        "uid": null
+    }, {
+        "buildingNumber": "SONALI BANK (UK) LTD CHATSWORTH HOUSE 19 ",
+        "street": "LEVER STREET",
+        "townOrCity": "MANCHESTER",
+        "postcode": "M11BY",
+        "premiseId": "10070863592",
+        "communityId": null,
+        "uid": null
+    }],
+    "postcode": "M11BY",
+    "email": {
+        "subject": "The UK's fastest fibre optic broadband could be yours!",
+        "body": "<h4>Virgin Media is cabling more streets</h4>\r\n<p>Guess what? We think you'll be pretty excited about our awesome new plans to extend our award winning fibre optic broadband network.</p>\r\n<p>Here at Virgin Media, we're busy extending our network to bring our superfast broadband to 4 million more homes and small businesses. Oh and we don't call ourselves 'superfast' for nothing. We've been named fastest widely available broadband# in the UK for the 7th year running. So there's no better time to jump on board!</p>\r\n<p>Knowing who's interested helps us plan where to go next, so why not register for updates? Put it this way, if you want us - we want you!</p>\r\n<p><a href=\"https://cablemystreet.int.virginmedia.com/#/cablemystreet\">Register your interest now ></a>\r\n</p>\r\n<p>Thanks<br>The Virgin Media Team</p>"
+    },
+    "communityDetails": [{
+        "communityId": "3",
+        "leadsCount": "1",
+        "leadsThreshold": "4",
+        "communityBoundaries": [{
+            "id": "10023045011",
+            "postcode": "M1 1BY",
+            "latitude": "53.18192978",
+            "longitude": "-2.13516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045012",
+            "postcode": "M1 1BY",
+            "latitude": "53.28192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045013",
+            "postcode": "M1 1BY",
+            "latitude": "53.38192978",
+            "longitude": "-2.33516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045014",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.43516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045015",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.53516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045016",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.63516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045017",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045018",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045019",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045020",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045021",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045022",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045023",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }, {
+            "id": "10023045035",
+            "postcode": "M1 1BY",
+            "latitude": "53.48192978",
+            "longitude": "-2.23516893",
+            "communityId": "3"
+        }]
+    }]
+}
